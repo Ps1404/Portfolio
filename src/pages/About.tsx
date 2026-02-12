@@ -48,14 +48,9 @@ const About = () => {
               Features included Node.js backend (300+ RPM), React frontend with MetaMask integration (95% wallet compatibility), and gas-optimized Solidity contracts. 
               Led smart contract audits achieving 100% compliance (MythX/OpenZeppelin) and resolved 50+ security vulnerabilities. Designed user-friendly UI improving coupon redemption by 25%.
 
-              As a <span className="text-textPrimary">Software Developer Intern (MERN Stack) at TCIL Pvt Ltd (05/2022 – 07/2022)</span>, 
+              As a <span className="text-textPrimary">Software Developer Intern (MERN Stack)</span>, 
               I gained experience with an ongoing product, collaborated with product management to design/build/test systems, designed intuitive GUIs, and stored/retrieved/manipulated data. 
               Engineered a full-stack web app using MERN stack handling 5000+ user interactions/week with 99.9% uptime.
-            </p>
-
-            <p>
-              Projects include <span className="text-textPrimary">URL Shortner</span> (Node.js, Express, MongoDB) — a high-performance service handling 50+ daily requests with 99.8% uptime, custom analytics, and optimized MongoDB queries (200ms response times). 
-              And <span className="text-textPrimary">Real-Time Chat Application</span> (MERN Stack + Socket.io) — a full-featured platform supporting 100+ concurrent users, RESTful APIs with JWT authentication, end-to-end encryption, typing indicators, read receipts, file sharing, and 1.2s average message latency via WebSocket optimization.
             </p>
 
             <p>
