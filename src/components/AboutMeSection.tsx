@@ -1,7 +1,7 @@
-import { FaLinkedinIn, FaGithub, FaKaggle, FaInstagram } from "react-icons/fa";
-import { FaSquareXTwitter } from "react-icons/fa6";
+import { FaGithub, FaInstagram } from "react-icons/fa";
+// import { FaSquareXTwitter } from "react-icons/fa6";
 import SocialButtons from "./elements/SocialButtons";
-import { SiGeeksforgeeks, SiLeetcode } from "react-icons/si";
+// import { SiGeeksforgeeks, SiLeetcode } from "react-icons/si";
 
 const AboutMeSection = () => {
   return (

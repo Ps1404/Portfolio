@@ -1,5 +1,5 @@
 import SocialButtons from "./elements/SocialButtons";
-import { FaLinkedinIn, FaGithub, FaInstagram } from "react-icons/fa";
+import {  FaGithub, FaInstagram } from "react-icons/fa";
 import { FaSquareXTwitter } from "react-icons/fa6";
 import { MdEmail } from "react-icons/md";
 import { FaQuoteLeft, FaQuoteRight } from "react-icons/fa6";
