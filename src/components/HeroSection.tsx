@@ -57,7 +57,7 @@ const HeroSection = () => {
               />
             </div>
             <a
-              href="https://drive.google.com/file/d/1hadkcR7Ujnn8kBc2Eb5W84JM_lra2Fwc/view?usp=sharing"
+              href="https://drive.google.com/file/d/1tnjNODMRhndbORHVkSPf8H_xJn05INpu/view?usp=sharing"
               target="_blank"
               className="hover:bg-textPrimary hover:rounded-lg hover:text-textBlack text-xl text-textWhite flex flex-row justify-center items-center py-2 transition duration-300"
               style={{ textDecoration: "None" }}
